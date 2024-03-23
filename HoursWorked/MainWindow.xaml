@@ -5,6 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HoursWorked"
         mc:Ignorable="d"
-        Title="MainWindow" Height="625.94" Width="1033.458">
-    <Grid/>
+        Title="MainWindow" Height="520.048" Width="1125.231">
+    <Grid>
+        <ListBox x:Name="lstStaffs" HorizontalAlignment="Left" Height="490" Margin="911.688,-1,0,0" VerticalAlignment="Top" Width="200"/>
+    </Grid>
 </Window>

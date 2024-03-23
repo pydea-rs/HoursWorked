@@ -15,7 +15,7 @@ namespace HoursWorked
         {
             InitializeComponent();
             this.staffs = new Dictionary<string, Staff>();
-            
+
         }
 
 
@@ -48,7 +48,7 @@ namespace HoursWorked
                 {
                     // Split the line by spaces
                     string[] elements = line.Split(' ');
-                    Staff next = new Staff(elements[0]);
+                    Staff next = new Staff(1, elements[0], "");
                     // Print each element
                     foreach (string element in elements)
                     {
