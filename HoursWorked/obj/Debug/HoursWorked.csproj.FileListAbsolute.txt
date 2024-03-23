@@ -1,0 +1,14 @@
+D:\pya.h\C#\HoursWorked\HoursWorked\HoursWorked\bin\Debug\HoursWorked.exe
+D:\pya.h\C#\HoursWorked\HoursWorked\HoursWorked\bin\Debug\HoursWorked.pdb
+D:\pya.h\C#\HoursWorked\HoursWorked\HoursWorked\obj\Debug\HoursWorked.csprojAssemblyReference.cache
+D:\pya.h\C#\HoursWorked\HoursWorked\HoursWorked\obj\Debug\MainWindow.g.cs
+D:\pya.h\C#\HoursWorked\HoursWorked\HoursWorked\obj\Debug\App.g.cs
+D:\pya.h\C#\HoursWorked\HoursWorked\HoursWorked\obj\Debug\HoursWorked_MarkupCompile.cache
+D:\pya.h\C#\HoursWorked\HoursWorked\HoursWorked\obj\Debug\HoursWorked_MarkupCompile.lref
+D:\pya.h\C#\HoursWorked\HoursWorked\HoursWorked\obj\Debug\MainWindow.baml
+D:\pya.h\C#\HoursWorked\HoursWorked\HoursWorked\obj\Debug\HoursWorked.g.resources
+D:\pya.h\C#\HoursWorked\HoursWorked\HoursWorked\obj\Debug\HoursWorked.Properties.Resources.resources
+D:\pya.h\C#\HoursWorked\HoursWorked\HoursWorked\obj\Debug\HoursWorked.csproj.GenerateResource.cache
+D:\pya.h\C#\HoursWorked\HoursWorked\HoursWorked\obj\Debug\HoursWorked.csproj.CoreCompileInputs.cache
+D:\pya.h\C#\HoursWorked\HoursWorked\HoursWorked\obj\Debug\HoursWorked.exe
+D:\pya.h\C#\HoursWorked\HoursWorked\HoursWorked\obj\Debug\HoursWorked.pdb
