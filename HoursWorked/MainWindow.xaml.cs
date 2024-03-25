@@ -10,11 +10,11 @@ namespace HoursWorked
     /// </summary>
     public partial class MainWindow : Window
     {
-        private Dictionary<string, Staff> staffs;
+        private List<Staff> logs;
         public MainWindow()
         {
             InitializeComponent();
-            this.staffs = new Dictionary<string, Staff>();
+            this.logs = new List<Staff>();
 
         }
 
@@ -37,7 +37,7 @@ namespace HoursWorked
             throw new Exception("برنامه فادر به باز کردن فایل انتخابی نبود!");
         }
 
-        static void ReadStaffData(string filePath)
+        void ReadStaffData(string filePath)
         {
             // Open the file
             using (StreamReader reader = new StreamReader(filePath))
@@ -48,11 +48,21 @@ namespace HoursWorked
                 {
                     // Split the line by spaces
                     string[] elements = line.Split(' ');
-                    Staff next = new Staff(1, elements[0], "");
-                    // Print each element
-                    foreach (string element in elements)
+                    ushort id = ushort.Parse(elements[0]);
+                    List<Staff> currentUserLogs = this.logs.FindAll(log => log.Id == id);
+                    if(currentUserLogs.Count > 0)
                     {
-                        Console.WriteLine(element);
+                        Staff lastLog = currentUserLogs[currentUserLogs.Count - 1];
+
+                        // Print each element
+                        foreach (string element in elements)
+                        {
+                            Console.WriteLine(element);
+                        }
+                    } 
+                    else
+                    {
+
                     }
                 }
             }

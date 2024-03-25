@@ -30,7 +30,7 @@ namespace HoursWorked
     {
 
         public string Name { get; set; }
-        public int Id { get; set; }
+        public ushort Id { get; set; }
 
         public Time TimeIn { get; set; }
         
@@ -47,8 +47,9 @@ namespace HoursWorked
             this.TimeIn = new Time(timeIn);
         }
 
-        public Staff(int id, string name, string timeIn)
+        public Staff(ushort id, string name, string timeIn)
         {
+            this.Id = id;
             this.Name = name;
             this.TimeIn = new Time(timeIn);
         }
