@@ -1,0 +1,15 @@
+D:\Portfolio\pydea.go\c#\HoursWorked Project\HoursWorked\HoursWorked\bin\Debug\WorkLogger.exe.config
+D:\Portfolio\pydea.go\c#\HoursWorked Project\HoursWorked\HoursWorked\bin\Debug\WorkLogger.exe
+D:\Portfolio\pydea.go\c#\HoursWorked Project\HoursWorked\HoursWorked\bin\Debug\WorkLogger.pdb
+D:\Portfolio\pydea.go\c#\HoursWorked Project\HoursWorked\HoursWorked\obj\Debug\WorkLogger.csproj.AssemblyReference.cache
+D:\Portfolio\pydea.go\c#\HoursWorked Project\HoursWorked\HoursWorked\obj\Debug\MainWindow.g.cs
+D:\Portfolio\pydea.go\c#\HoursWorked Project\HoursWorked\HoursWorked\obj\Debug\App.g.cs
+D:\Portfolio\pydea.go\c#\HoursWorked Project\HoursWorked\HoursWorked\obj\Debug\WorkLogger_MarkupCompile.cache
+D:\Portfolio\pydea.go\c#\HoursWorked Project\HoursWorked\HoursWorked\obj\Debug\WorkLogger_MarkupCompile.lref
+D:\Portfolio\pydea.go\c#\HoursWorked Project\HoursWorked\HoursWorked\obj\Debug\MainWindow.baml
+D:\Portfolio\pydea.go\c#\HoursWorked Project\HoursWorked\HoursWorked\obj\Debug\WorkLogger.g.resources
+D:\Portfolio\pydea.go\c#\HoursWorked Project\HoursWorked\HoursWorked\obj\Debug\WorkLogger.Properties.Resources.resources
+D:\Portfolio\pydea.go\c#\HoursWorked Project\HoursWorked\HoursWorked\obj\Debug\WorkLogger.csproj.GenerateResource.cache
+D:\Portfolio\pydea.go\c#\HoursWorked Project\HoursWorked\HoursWorked\obj\Debug\WorkLogger.csproj.CoreCompileInputs.cache
+D:\Portfolio\pydea.go\c#\HoursWorked Project\HoursWorked\HoursWorked\obj\Debug\WorkLogger.exe
+D:\Portfolio\pydea.go\c#\HoursWorked Project\HoursWorked\HoursWorked\obj\Debug\WorkLogger.pdb
